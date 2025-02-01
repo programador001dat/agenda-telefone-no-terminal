@@ -1,3 +1,4 @@
+# coding: python3 utf-8
 # dependencias: pip install pyfiglet
 
 # Esté codigo é uma agenda de Telefone e Email no seu terminal.
